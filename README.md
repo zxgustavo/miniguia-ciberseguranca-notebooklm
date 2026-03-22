@@ -1,8 +1,8 @@
-## 🤖 Engenharia de Prompts e "Cicatrizes"
+## Engenharia de Prompts e "Cicatrizes"
 
 Para extrair o melhor das fontes densas (livros de Malware e Kali), utilizei uma abordagem de refinamento de prompts:
 
-### 🔬 Testes Realizados:
+### Testes Realizados:
 
 1.  **Prompt de Contexto Amplo (Genérico):** * *Pergunta:* "Faça um resumo sobre cibersegurança com base nas fontes."
     * **Cicatriz:** O resultado foi muito básico. A IA ignorou os detalhes técnicos dos livros e focou em dicas comuns de internet.
@@ -17,15 +17,15 @@ Para extrair o melhor das fontes densas (livros de Malware e Kali), utilizei uma
 
 ---
 
-## 📝 Miniguia de Estudo (Entrega Final)
+## Miniguia de Estudo
 
-### 🚀 Resumo Estruturado: Defesa em Camadas
+### Resumo Estruturado: Defesa em Camadas
 A segurança não é um produto, mas um processo. Com base nos estudos:
 * **Camada Humana:** Conscientização contra Phishing (conforme OWASP).
 * **Camada de Rede:** Entender o tráfego TCP/IP para detectar anomalias (Fascículo de Redes).
 * **Camada de Aplicação:** Sanetização de inputs para evitar Injeções (SQLi).
 
-### 📖 Glossário de Conceitos Aprendidos
+### Glossário de Conceitos Aprendidos
 * **Tríade CIA:** Confidencialidade, Integridade e Disponibilidade.
 * **Exploit:** Pedaço de software que aproveita uma vulnerabilidade.
 * **Payload:** A parte do malware que executa a ação maliciosa (ex: criptografar arquivos).
