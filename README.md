@@ -34,8 +34,8 @@ A segurança não é um produto, mas um processo. Com base nos estudos:
 Para este caderno temático, selecionei fontes que equilibram teoria e prática:
 * [Cartilha de Segurança para Internet (CERT.br)](https://cartilha.cert.br/fasciculos/redes/fasciculo-redes.pdf) - Conceitos básicos de infraestrutura.
 * [OWASP Top 10 (2021)](https://owasp.org/www-project-top-ten/) - Principais riscos em aplicações web.
-* **Hacking com Kali Linux (https://www.kufunda.net/publicdocs/Hacking%20com%20Kali%20Linux%20Técnicas%20práticas%20para%20testes%20de%20invasão%20(James%20Broad%20%20Andrew%20Bindner%20[Broad,%20James]).pdf):** Técnicas de testes de invasão e uso de ferramentas.
-* **Practical Malware Analysis (https://www.kea.nu/files/textbooks/humblesec/practicalmalwareanalysis.pdf):** Engenharia reversa e análise de artefatos.****
+* **[Hacking com Kali Linux](https://www.kufunda.net/publicdocs/Hacking%20com%20Kali%20Linux%20Técnicas%20práticas%20para%20testes%20de%20invasão%20(James%20Broad%20%20Andrew%20Bindner%20[Broad,%20James]).pdf):** Técnicas de testes de invasão e uso de ferramentas.
+* **[Practical Malware Analysis](https://www.kea.nu/files/textbooks/humblesec/practicalmalwareanalysis.pdf):** Engenharia reversa e análise de artefatos.****
 * ---
 
 ## 💡 Prompts para Futuras Revisões (Reutilizáveis)
